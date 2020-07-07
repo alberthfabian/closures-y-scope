@@ -1,0 +1,24 @@
+{
+  "name": "closures-y-scope",
+  "version": "1.0.0",
+  "description": "Projec to work closures and scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alberthfabian/closures-y-scope.git"
+  },
+  "keywords": [
+    "closures",
+    "scope",
+    "javaScript"
+  ],
+  "author": "Alberth Perez (alberth.perez@hotmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alberthfabian/closures-y-scope/issues"
+  },
+  "homepage": "https://github.com/alberthfabian/closures-y-scope#readme"
+}
